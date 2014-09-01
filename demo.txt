@@ -1,0 +1,6 @@
+text demo
+asdas
+<<<<<<< HEAD
+sdadssadadas
+=======
+>>>>>>> 7f34d7e0d13dfb41aeee7c78d60c223a2f2aab54
